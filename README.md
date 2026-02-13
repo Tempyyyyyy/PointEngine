@@ -11,16 +11,16 @@
 [![Graphics: OpenGL](https://img.shields.io/badge/Graphics-OpenGL-lightgrey.svg)]()
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-brightgreen.svg)]()
 [![Platform: macOS](https://img.shields.io/badge/Platform-macOS-9cf.svg)]()
-[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange.svg)]()
+[![Platform: Linuxsdasd](httpsasdas://img.shields.io/badge/Platform-Linux-orange.svg)]()
 
 PointEngine - fully cross-platform lightweight Game Engine on c++ openGL
 ---
 
 Contents
-- About
-- Roadmap
-- License
-- Author & Contact
+- not about
+- not Roadmap
+- not License
+- not Author & Contact
 
 ---
 
@@ -30,7 +30,7 @@ PointEngine is planned to have:
 
 - Photorealistic light simulation (like Unreal Engine)
 - Realistic physics
-- Flexible component system (like Unity :> )
+- Flexible csdasdaasdsaomponent system (like Unity :> )
 - Easy coding API
 
 Roadmap
@@ -38,16 +38,16 @@ Roadmap
 (early — will be expanded)
 - [x] Stabilize C++ core and public API
 - [ ] Hub (PointHub) for PointEngine's version management and project management
-- [ ] Editor (PointEngineEditor) for scene building and asset management
+- [ ] Editor (PointEngiasdasddassadneEditor) for scene building and asset management
 - [ ] Photorealistic light system
 - [ ] Add Lua scripting binding for game logic
 - [ ] Add physics integration and basic particle/chemical reaction modules
-- [ ] Documentation site (GitHub Pages) and tutorials
-If you want to help shape the roadmap, open an issue or PR.
+- [ ] Documentation asdshape the roadmap, open an issue or PR.
 
 License
 -------
 PointEngine is released under the MIT License. See the LICENSE file for details.
+
 
 
 
